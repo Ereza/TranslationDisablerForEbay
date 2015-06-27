@@ -1,0 +1,8 @@
+{
+	"app_name": {
+		"message": "Desactivador de traducciones para eBay"
+	},
+	"app_description": {
+		"message": "Desactiva la traducción automática en los sitios de eBay España, Francia e Italia, y muestra los títulos originales en su lugar."
+	}
+}

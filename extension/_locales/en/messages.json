@@ -1,0 +1,10 @@
+{
+	"app_name": {
+		"message": "Translation Disabler for eBay",
+		"description": "The title of the application, displayed in the web store."
+	},
+	"app_description": {
+		"message": "Disables automatic machine translation in eBay France, Italy and Spain sites, and shows the original titles for items.",
+		"description": "The description of the application, displayed in the web store."
+	}
+}
