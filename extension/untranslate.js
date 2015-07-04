@@ -42,7 +42,7 @@ function untranslateNow(){
 
 	for (var i=0;i<translatedElements.length;i++){
 		var currentElement = translatedElements[i];
-		var untranslatedText = currentElement.getAttribute('data-mtdes');
+		var untranslatedText = currentElement.getAttribute('data-mtdes').replace('<wbr />','').replace('<wbr/>','');
 		if (isItemDetailPage){
 			//This is a special case: we have to go up two levels so we can replace the text correctly.
 			var childNodes = currentElement.parentNode.parentNode.childNodes;
