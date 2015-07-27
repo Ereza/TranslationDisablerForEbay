@@ -4,5 +4,8 @@
 	},
 	"app_description": {
 		"message": "Desactiva la traducció automàtica als llocs d'eBay Espanya, França i Itàlia, i mostra els títols originals dels articles."
+	},
+	"extended_description": {
+		"message": "Aquesta extensió desactiva la traducció automàtica als llocs d'eBay Espanya, França i Itàlia, i mostra els títols originals dels articles en lloc dels traduïts. Això no aplica a cap altre lloc d'eBay, ja que no tenen la traducció automàtica activada.\n\nL'extensió s'ha provat amb les pàgines de cerca, detall de l'article i llistes de seguiment.\n\nSi hi trobes qualsevol error o tens qualsevol altre suggeriment, fes-m'ho saber.\n\nAixò és programari de codi obert, ets lliure de millorar-lo a: https://github.com/Ereza/TranslationDisablerForEbay"
 	}
 }

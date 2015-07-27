@@ -4,5 +4,8 @@
 	},
 	"app_description": {
 		"message": "Désactive la traduction automatique sur les sites eBay France, Italie et Espagne, et affiche les titres originaux des articles."
+	},
+	"extended_description": {
+		"message": "This extension disables automatic machine translation in eBay France, Italy and Spain sites, and shows the original titles for items instead of the translated ones. This does not apply to any other eBay sites, since they don't have machine translation enabled.\n\nThe extension has been tested with the listings, item detail and watch list pages.\n\nIf you find any bug or have any other suggestion, please let me know.\n\nThis is open-source software, feel free to improve it at: https://github.com/Ereza/TranslationDisablerForEbay"
 	}
 }
